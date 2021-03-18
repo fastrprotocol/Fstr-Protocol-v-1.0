@@ -1,1 +1,1 @@
-# Fastr protocol v1.0
+# Fastr protocol v 1.0
